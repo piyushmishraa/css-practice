@@ -1,0 +1,136 @@
+
+
+
+
+
+
+h1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+   font-size: 4.625rem; 
+   
+    
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.topcontainer{
+    background-color:#CDFCF6;
+    height: 600px;
+}
+h2{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #4FA095;
+}
+h3{
+
+    font-family: 'Montserrat', sans-serif;
+    color: #4FA095;
+}
+.skill-row{
+    width: 50%;
+    margin: 70px auto;
+    text-align: left
+    
+}
+
+
+
+
+.web{
+    text-decoration: underline;
+}
+.topcloud{
+    position: absolute;
+    right: 375px;
+    top: 50px;
+}
+.bottomcloud{
+    position:absolute;
+    top: 200px;
+    left: 430px;
+}
+.heading{
+    position: relative;
+    top: 100px;
+}
+.mountain{
+    position: relative;
+    top: 25px;
+}
+#mypic{
+    border-radius: 50px;
+    display: inline-block;
+    margin: 0px
+}
+.dev{
+    font-size: 1.5rem;
+    color: #4FA095;
+}
+.piyush{
+    color: #4FA095;
+}
+.clan{
+    width: 20%;
+    float: right;
+    margin-right: 5px;
+    
+}
+
+.weee{
+    float: left;
+    margin-right: 5px;
+    
+}
+.button{
+    background-color: #4FA095;
+    border-radius: 20px;
+    border: 0px;
+    height:50px;
+    
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+.bottom-container{
+    background-color: #4FA095;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    padding: 50px 0px 20px;
+
+}
+.name{
+    margin-bottom: 0px;
+}
+hr{
+    background-color: white;
+ border-style: dotted none none;
+ height: 0px;
+ width: 5%;
+ border-color: #4FA095; ;
+ border-width: 5px;
+}
+.my{
+    margin-top: 50px;
+}
+    .gif{
+        height: 250px;
+        width: 250px;
+        margin-bottom: 0px;
+        margin-top: 30px;
+    }
+
+    a{
+        text-decoration: none;
+        margin: 10px 20px ;
+        color: white;
+    }
+    a:hover{
+        color: aquamarine;
+    }
